@@ -6,7 +6,7 @@ class ThirdElem extends PolymerElement {
     <style>
       :host {
         display: block;
-        margin-top: 0;
+        margin-top: 1px;
       }
     </style>
 `;

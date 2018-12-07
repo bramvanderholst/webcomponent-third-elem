@@ -1,6 +1,6 @@
 {
   "packages": [
-    "../third-elem"
+    "**"
   ],
   "version": "independent"
 }
