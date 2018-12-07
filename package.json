@@ -1,0 +1,28 @@
+{
+  "name": "@bramtest/third-elem",
+  "version": "1.1.0",
+  "description": "> TODO: description",
+  "author": "Bram van der Holst <bram@h-o.nl>",
+  "homepage": "https://github.com/bramvanderholst/webcomponent-third-elem",
+  "license": "ISC",
+  "main": "third-elem.js",
+  "directories": {
+    "test": "__tests__"
+  },
+  "files": [
+    "third-elem.js"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bramvanderholst/webcomponent-third-elem.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/bramvanderholst/webcomponent-third-elem/issues"
+  }
+}
